@@ -18,9 +18,8 @@ For the data sets used in the paper, see
 ## Visualisation 
 
 * London
-
-![Alt Text](vis/London_polygon_merge_last.png)
-![Alt Text](vis/London_polygon_merge_animation.gif)
+<img src="vis/London_polygon_merge_last.png" width="300">
+<img src="vis/London_polygon_merge_animation.gif" width="400">
 
 
 * New York
