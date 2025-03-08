@@ -17,3 +17,7 @@ For the data sets used in the paper, see
 
 ## Visualisation 
 
+* London
+![Alt Text](image.jpg)
+![Alt Text](animation.gif)
+
