@@ -18,19 +18,17 @@ For the data sets used in the paper, see
 ## Visualisation 
 
 * London
-<img src="vis/London_polygon_merge_last.png" width="300">
-<img src="vis/London_polygon_merge_animation.gif" width="400">
+
+<img src="vis/London_polygon_merge_last.png" width="500"><img src="vis/London_polygon_merge_animation.gif" width="500">
 
 
 * New York
 
-![Alt Text](vis/new_york_polygon_merge_last.png)
-![Alt Text](vis/new_york_polygon_merge_animation.gif)
+<img src="vis/new_york_polygon_merge_last.png" width="400"><img src="vis/new_york_polygon_merge_animation.gif" width="400">
 
 
 * Paris
 
-![Alt Text](vis/paris_polygon_merge_last.png)
-![Alt Text](vis/paris_polygon_merge_animation.gif)
+<img src="vis/paris_polygon_merge_last.png" width="400"><img src="vis/paris_polygon_merge_animation.gif" width="400">
 
 
