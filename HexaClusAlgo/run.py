@@ -5,9 +5,7 @@ from cv import GridSearcher
 from load_data import load_london, load_gdf, load_paris, load_newyork
 
 parameters_grid = { 'Lr_ridge' : {"alpha": np.arange(0.1,1,0.1)},
-                    'clustering' : {"resolutions": [5, 6, 7, 8, 9]},
-                    'RDF' :  { "min_samples_split" : [2,3,5],
-                                        "min_samples_leaf" : [3,5,10]}
+                    'clustering' : {"resolutions": [5, 6, 7, 8, 9]}
                     }
 save_path = './result/new_york/'
 max_iter = 10000
