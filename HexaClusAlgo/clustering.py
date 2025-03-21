@@ -52,7 +52,7 @@ def train_polygon_model(
     else:
         model.fit(X, y)
         preds = model.predict(X)
-        mse = np.sqrt(np.mean((preds - y) ** 2))
+        mse =  mean_squared_error(y_true, preds)
     return mse, len(X), model
 
 
