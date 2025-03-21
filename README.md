@@ -31,4 +31,3 @@ For the data sets used in the paper, see
 
 <img src="vis/paris_polygon_merge_last.png" width="400"><img src="vis/paris_polygon_merge_animation.gif" width="400">
 
-
